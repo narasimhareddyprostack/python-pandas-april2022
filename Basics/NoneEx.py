@@ -1,4 +1,4 @@
 def add():
-    return "HellO"
+    a=100
 
 print(add())
