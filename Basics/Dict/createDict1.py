@@ -1,0 +1,5 @@
+emp = dict({'id':101, 'name':'Rahul'})
+print(emp)
+user = dict([('id',101),('name','Rahul')])
+print(user)
+print(type(user))
