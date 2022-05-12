@@ -4,3 +4,4 @@ def func():
 a = func
 print(id(a))
 print(id(func))
+del func
