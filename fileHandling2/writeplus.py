@@ -1,0 +1,7 @@
+f = open('xyz.txt', 'w+')
+f.write("One  \n")
+f.write("Two  \n")
+f.write("Three  \n")
+data = f.readlines()
+print(data)
+f.close()

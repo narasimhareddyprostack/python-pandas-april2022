@@ -1,0 +1,6 @@
+f1 = open("just.jpeg",'rb')
+b = f1.read()
+f2 = open("dummy.jpeg", 'wb')
+f2.write(b)
+f1.close()
+f2.close()

@@ -1,0 +1,5 @@
+print(dir())
+print(__file__)
+print(__doc__)
+print(__package__)
+print(__spec__)

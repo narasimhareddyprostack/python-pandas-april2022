@@ -1,0 +1,5 @@
+f = open('abc.txt', 'r+')
+data= f.read()
+print(data)
+f.write("TuesDay error")
+f.close()
