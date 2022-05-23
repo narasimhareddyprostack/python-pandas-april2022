@@ -1,0 +1,7 @@
+f= open("abc1.txt")
+data= f.read()
+print(data)
+f.close()
+print("Hello,Rahul Gandhi")
+print("Hello,Sonia Gandhi")
+print("Hello,Priyanka Gandhi")

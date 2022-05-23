@@ -1,0 +1,5 @@
+f = open("abc.txt",'w')
+f.write("GM")
+f.write("GA")
+f.write("GN")
+f.close()
