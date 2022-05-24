@@ -3,5 +3,6 @@ try:
     b = int(input("Enter Number:"))
     print(a/b)
     print("GM")
+
 except ZeroDivisionError as err:
     print(err)
