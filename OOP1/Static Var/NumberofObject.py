@@ -6,8 +6,8 @@ class Test:
     @classmethod
     def getNoOfObject(cls):
         print("No of Object", cls.count)
-Test()
-Test()
+t1=Test()
+t2=Test()
 Test.getNoOfObject()
-Test()
+t3=Test()
 Test.getNoOfObject()
